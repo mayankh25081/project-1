@@ -1,0 +1,144 @@
+body{
+    font-family: Montserrat-black;
+    text-align: center;
+}
+#title{
+    background-color: #C4A484;
+    text-align: left;
+    
+}
+.title-img{
+    width: 380px;
+    height: 500px;
+}
+h1,h2,h3{
+    font-family: Montserrat-Bold;
+}
+.big-heading{
+    font-size: 4rem;
+    line-height: 1.25;
+    color: white;
+}
+.container-fluid{
+    padding: 3% 15% 1%;
+}
+
+/* navigation bar */
+.navbar-brand{
+    font-family: arial,sans-serif-dark;
+    font-size: 4.5rem;
+    font-weight: bold;
+}
+.nav-link{
+    font-family: Montserrat-gray;
+    font-size: 1.5rem;
+}
+.features{
+    background-color: #fff;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+    
+}
+.nav-item{
+    padding: 0% 8%;
+}
+
+/* download buttons */
+.btn{
+    margin: 5% 1% 0;
+}
+
+/* features section */
+
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    padding: 5%;
+}
+.feature-title{
+    font-weight: bold;
+}
+p {
+    color: #8f8f8f;
+}
+
+.icon{
+    color: #964b00;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #C4A484;
+}
+
+/* testimonials section */
+
+#testimonials{
+    background-color: #C4A484;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.testimonial-text{
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #fff;
+}
+.testimonial-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #C4A484;
+    padding: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+/* pricing section */
+
+#pricing{
+    padding: 100px;
+}
+.pricing-col{
+    padding: 3% 2%;
+}
+.price-heading{
+    font-weight: bold;
+    font-size: 50px;
+}
+.pricing-heading1{
+    font-size: 30px;
+}
+
+/* call to action */
+
+#cta{
+    background-color: #C4A484;
+    padding: 7% 20%;
+    
+    color: white;
+}
+.cta-heading{
+    font-size: 50px;
+    
+}
+
+/* footer */
+
+#footer{
+    padding: 40px;
+}
+.links{
+    margin: 20px 15px;
+}
+
+
